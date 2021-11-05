@@ -1,2 +1,2 @@
 ---
-	#### RULES FOR THE SERVER ####
+	# RULES FOR THE SERVER 
